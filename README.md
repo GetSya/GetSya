@@ -4,10 +4,7 @@
 
 Nama : Arasya Rafi Putra
 Kelas : X - RPL
-Sekolah : SMK MUHAMMADIYAH 3 TANGSEL
-Tempat Tinggal : Parung, Bogor - Jawa Barat
-Hobi : Main Badminton
-Cita Cita : Programer
+Sekolah : [SMK MuhTiga Tangsel](http://muhtiga.sch.id)
 
 ## 📌 Pinned
 | | |
