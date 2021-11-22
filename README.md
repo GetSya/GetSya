@@ -15,8 +15,8 @@ Cita Cita : Programer
 | 📧 [MY INSTAGRAM](https://instagram.com/sofunsyabi.id) | 🔪 [MY GRUP CHAT](https://chat.whatsapp.com/HECLovHbCI6LVVH4Q8FN2C) |
 
 ## Wa
-- WhatsApp : https://wa.me/6281319944917
-- My Bot : https://wa.me/628821329687
+- WhatsApp : [Arasya](https://wa.me/6281319944917)
+- My Bot : [Jojo - Bot](https://wa.me/628821329687)
 
 ## Thanks To
 - [Affis Junianto](https://github.com/affisjunianto)
