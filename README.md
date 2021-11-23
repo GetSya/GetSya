@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Arasyaaaaa
 
-<img src="https://telegra.ph/file/524870d77c6ce4c7f08a6.jpg">
+<img src="https://telegra.ph/file/755f76e88cd9053fb9439.jpg">
 
 Nama : Arasya Rafi Putra
 Kelas : X - RPL
