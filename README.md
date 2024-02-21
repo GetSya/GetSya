@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Arasyaaaaa
 
-<img src="">
 
 Nama : Arasya Rafi Putra
 Kelas : X - RPL
