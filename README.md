@@ -14,6 +14,9 @@ Sekolah : [SMK MuhTiga Tangsel](http://muhtiga.sch.id)
 - WhatsApp : [Arasya](https://wa.me/6281319944917)
 - My Bot : [Jojo - Bot](https://wa.me/6288213292687)
 
+## Github IO
+- [My Profile](https://getsya.github.io)
+
 ## Thanks To
 - [Affis Junianto](https://github.com/affisjunianto)
 - [Riyan](https://github.com/rtwone)
