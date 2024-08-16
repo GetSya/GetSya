@@ -4,7 +4,7 @@
 
 ## 👋 Selamat Datang!
 
-Halo! Saya **Arasya Rafi**. Saya seorang pelajar dengan berbagai minat dan latar belakang pendidikan yang beragam. Berikut adalah beberapa informasi menarik tentang saya. 
+Halo! Saya **Arasya Rafi**. Saya seorang pelajar dengan berbagai minat dan latar belakang pendidikan yang beragam. Terima kasih telah mengunjungi profil saya. 
 
 ---
 
@@ -39,13 +39,6 @@ Saya sangat tertarik pada:
 
 ---
 
-## 🌟 Proyek Terbaru
-
-- **[Proyek Terbaru 1](#)**: Deskripsi singkat tentang proyek atau pencapaian terbaru Anda.
-- **[Proyek Terbaru 2](#)**: Deskripsi singkat tentang proyek atau pencapaian terbaru lainnya.
-
----
-
 ## 📈 Statistik Sosial
 
 - **Jumlah Pengikut Instagram**: ![Instagram Followers](https://img.shields.io/badge/Instagram-5000_followers-blue) <!-- Ganti dengan badge pengikut Instagram aktual -->
@@ -55,13 +48,17 @@ Saya sangat tertarik pada:
 
 ## 🔄 Aktivitas Terkini
 
-### GitHub Stats
+### 📊 GitHub Stats
 <!-- Menggunakan GitHub Readme Stats untuk menunjukkan aktivitas GitHub -->
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GetSya&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&hide=prs&theme=radical)
 
-### Most Used Languages
+### 📈 Most Used Languages
 <!-- Menggunakan GitHub Readme Stats untuk menunjukkan bahasa pemrograman yang sering digunakan -->
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arsrfii&layout=compact&theme=radical)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GetSya&layout=compact&theme=radical)
+
+### 🚀 GitHub Activity
+<!-- Badge aktivitas GitHub yang menunjukkan komit terbaru -->
+![GitHub Activity](https://activity-graph.herokuapp.com/graph?username=GetSya&theme=github)
 
 ---
 
