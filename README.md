@@ -1,9 +1,13 @@
 - 👋 Hi, I’m Arasyaaaaa
 
 
-Nama : Arasya Rafi Putra
-Kelas : X - RPL
+Nama : Arasya Rafi Putra<br>
+Kelas : X - RPL<br>
 Sekolah : [SMK MuhTiga Tangsel](http://muhtiga.sch.id)
+<p align="center"> 
+  Visitor Count<br>
+  <img src="https://profile-counter.glitch.me/rtwone/count.svg" />
+</p>
 
 ## 📌 Pinned
 | | |
