@@ -1,76 +1,73 @@
-# 🌟 Arasya Rafi
+# 🌟 **Arasya Rafi**
 
 ![Visitor Count](https://profile-counter.glitch.me/GetSya/count.svg) <!-- Badge pengunjung -->
 
-## 🎉 Selamat Datang!
+## 🎉 **Selamat Datang!**
 
 ![Welcome GIF](https://i.pinimg.com/originals/c2/ce/2d/c2ce2d82a11c90b05ad4abd796ef2fff.gif) <!-- GIF animasi -->
 
-Halo! Saya **Arasya Rafi**. Saya seorang pelajar dengan berbagai minat dan latar belakang pendidikan yang beragam. Terima kasih telah mengunjungi profil saya. 
+Halo! Saya **Arasya Rafi**, seorang individu yang selalu haus akan pengetahuan dan perkembangan diri. Terima kasih sudah mampir ke halaman saya!
 
 ---
 
-## 🎓 Pendidikan
+## 🎓 **Pendidikan**
 
 ### 📘 **SMK Muhammadiyah 3 Tangsel**
 - **Lokasi**: Tangsel
-- **Deskripsi**: Sekolah yang menawarkan berbagai program unggulan untuk mempersiapkan keterampilan praktis dan pengetahuan mendalam.
+- **Tentang Sekolah**: Sebuah lembaga pendidikan yang mengutamakan keseimbangan antara keterampilan praktis dan pengembangan akademis untuk mempersiapkan siswa dalam menghadapi tantangan dunia kerja.
 
 🔗 [Kunjungi Website SMK Muhammadiyah 3 Tangsel](https://muhtiga.sch.id)
 
 ### 📙 **Universitas Pamulang**
-- **Deskripsi**: Saat ini saya melanjutkan studi di Universitas Pamulang, mengembangkan keterampilan dan pengetahuan dalam bidang yang saya minati.
+- **Jurusan**: Saat ini saya sedang memperdalam ilmu dan keterampilan di Universitas Pamulang, dengan fokus pada bidang yang saya geluti dan minati.
 
 ---
 
-## 📱 Kontak
+## 📱 **Kontak**
 
-- **Instagram**: [arsrfii](https://instagram.com/arsrfii)  
-  Ikuti saya untuk update terbaru dan aktivitas sehari-hari.
-
-- **WhatsApp**: [Hubungi saya](https://wa.me/6288214772441)  
-  Jangan ragu untuk menghubungi saya jika Anda memiliki pertanyaan atau ingin berbicara lebih lanjut.
-
----
-
-## 🚀 Minat dan Kegiatan
-
-Saya sangat tertarik pada:
-- **🔧 Teknologi**: Fokus pada pengembangan perangkat lunak dan inovasi digital.
-- **🌐 Kegiatan Sosial**: Aktif dalam berbagai organisasi dan proyek komunitas.
+- **Instagram**: [@arsrfii](https://instagram.com/arsrfii)  
+  Jangan lewatkan update terbaru saya di sini!
+  
+- **WhatsApp**: [Hubungi saya langsung](https://wa.me/6288214772441)  
+  Terbuka untuk diskusi, kolaborasi, atau sekadar ngobrol santai.
 
 ---
 
-## 🌟 Proyek Terbaru
+## 🚀 **Minat dan Kegiatan**
 
-- **[Proyek Terbaru 1](#)**: Deskripsi singkat tentang proyek atau pencapaian terbaru Anda.
-- **[Proyek Terbaru 2](#)**: Deskripsi singkat tentang proyek atau pencapaian terbaru lainnya.
-
----
-
-## 📈 Statistik Sosial
-
-- **Jumlah Pengikut Instagram**: ![Instagram Followers](https://img.shields.io/badge/Instagram-5000_followers-blue) <!-- Ganti dengan badge pengikut Instagram aktual -->
-- **Jumlah Pesan WhatsApp**: ![WhatsApp Messages](https://img.shields.io/badge/WhatsApp-Messages_received-green) <!-- Ganti dengan badge jumlah pesan WhatsApp jika diinginkan -->
+Saya memiliki minat besar dalam:
+- **🔧 Teknologi & Inovasi**: Menggali lebih dalam tentang perangkat lunak, AI, dan transformasi digital.
+- **🌐 Aktivitas Sosial**: Berperan aktif dalam berbagai komunitas, berusaha memberikan dampak positif bagi lingkungan sekitar.
 
 ---
 
-## 🔄 Aktivitas Terkini
+## 🌟 **Proyek Terbaru**
 
-### 📊 GitHub Stats
-<!-- Menggunakan GitHub Readme Stats untuk menunjukkan aktivitas GitHub -->
+- **[Proyek Aplikasi Mobile](#)**: Mengembangkan aplikasi mobile yang membantu meningkatkan produktivitas sehari-hari.
+- **[Proyek Komunitas Digital](#)**: Inisiatif untuk membangun komunitas yang fokus pada edukasi teknologi bagi masyarakat umum.
+
+---
+
+## 📈 **Statistik Sosial**
+
+- **Jumlah Pengikut Instagram**: ![Instagram Followers](https://img.shields.io/badge/Instagram-5000_followers-blue) <!-- Update badge ini dengan jumlah pengikut sebenarnya -->
+- **Interaksi di WhatsApp**: ![WhatsApp Messages](https://img.shields.io/badge/WhatsApp-Active_Engagement-green) <!-- Anda bisa menambahkan informasi spesifik di sini -->
+
+---
+
+## 🔄 **Aktivitas Terkini**
+
+### 📊 **GitHub Stats**
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GetSya&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&hide=prs&theme=radical)
 
-### 📈 Most Used Languages
-<!-- Menggunakan GitHub Readme Stats untuk menunjukkan bahasa pemrograman yang sering digunakan -->
+### 📈 **Most Used Languages**
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GetSya&layout=compact&theme=radical)
 
-### 🚀 GitHub Activity
-<!-- Badge aktivitas GitHub yang menunjukkan komit terbaru -->
+### 🚀 **GitHub Activity**
 ![GitHub Activity](https://activity-graph.herokuapp.com/graph?username=GetSya&theme=github)
 
 ---
 
-Terima kasih telah mengunjungi halaman saya. Jika Anda tertarik untuk berkolaborasi atau memiliki pertanyaan, jangan ragu untuk menghubungi saya. Selamat beraktivitas!
+💬 **Terima kasih telah mengunjungi halaman saya!** Jika Anda tertarik untuk berbagi ide, berkolaborasi, atau hanya sekedar menyapa, jangan ragu untuk menghubungi saya.
 
 [🔝 Kembali ke Atas](#arsaya-rafi)
