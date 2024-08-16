@@ -2,7 +2,9 @@
 
 ![Visitor Count](https://profile-counter.glitch.me/GetSya/count.svg) <!-- Badge pengunjung -->
 
-## 👋 Selamat Datang!
+## 🎉 Selamat Datang!
+
+![Welcome GIF](https://i.pinimg.com/originals/c2/ce/2d/c2ce2d82a11c90b05ad4abd796ef2fff.gif) <!-- GIF animasi -->
 
 Halo! Saya **Arasya Rafi**. Saya seorang pelajar dengan berbagai minat dan latar belakang pendidikan yang beragam. Terima kasih telah mengunjungi profil saya. 
 
@@ -36,6 +38,13 @@ Halo! Saya **Arasya Rafi**. Saya seorang pelajar dengan berbagai minat dan latar
 Saya sangat tertarik pada:
 - **🔧 Teknologi**: Fokus pada pengembangan perangkat lunak dan inovasi digital.
 - **🌐 Kegiatan Sosial**: Aktif dalam berbagai organisasi dan proyek komunitas.
+
+---
+
+## 🌟 Proyek Terbaru
+
+- **[Proyek Terbaru 1](#)**: Deskripsi singkat tentang proyek atau pencapaian terbaru Anda.
+- **[Proyek Terbaru 2](#)**: Deskripsi singkat tentang proyek atau pencapaian terbaru lainnya.
 
 ---
 
