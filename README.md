@@ -4,40 +4,49 @@
 
 ![Arasya Rafi](https://via.placeholder.com/150)  <!-- Ganti dengan URL foto profil jika ada -->
 
-Selamat datang di halaman README saya! Saya Arasya Rafi, seorang pelajar dan peminat teknologi dengan latar belakang pendidikan yang beragam. Berikut adalah beberapa informasi tentang saya.
+## 👋 Selamat Datang!
 
-## 🎓 Pendidikan
+Hai! Saya Arasya Rafi, seorang pelajar yang penuh semangat dengan latar belakang yang beragam dan minat yang luas. Terima kasih telah mengunjungi profil saya!
 
-- **SMK Muhammadiyah 3 Tangsel**  
-  Saya menempuh pendidikan di SMK Muhammadiyah 3 Tangsel, sebuah sekolah yang terkenal dengan program-program unggulannya.  
-  [Kunjungi Website SMK Muhammadiyah 3 Tangsel](https://muhtiga.sch.id)
+## 📚 Pendidikan
 
-- **Universitas Pamulang**  
-  Saat ini, saya melanjutkan studi di Universitas Pamulang, fokus pada bidang yang saya minati.
+### SMK Muhammadiyah 3 Tangsel
+![Logo SMK Muhammadiyah 3 Tangsel](https://via.placeholder.com/100)  <!-- Ganti dengan logo SMK jika ada -->
+- **Lokasi**: Tangsel
+- **Deskripsi**: Sekolah dengan berbagai program unggulan yang mempersiapkan saya dengan keterampilan praktis dan pengetahuan mendalam.
+
+[🌐 Kunjungi Website SMK Muhammadiyah 3 Tangsel](https://muhtiga.sch.id)
+
+### Universitas Pamulang
+![Logo Universitas Pamulang](https://via.placeholder.com/100)  <!-- Ganti dengan logo Universitas Pamulang jika ada -->
+- **Deskripsi**: Melanjutkan studi saya di universitas yang menyediakan berbagai peluang untuk berkembang di bidang yang saya minati.
 
 ## 📱 Kontak
 
 - **Instagram**: [arsrfii](https://instagram.com/arsrfii)  
-  Ikuti saya di Instagram untuk update terbaru dan aktivitas sehari-hari.
+  Ikuti saya di Instagram untuk update terbaru, foto, dan aktivitas sehari-hari.
 
 - **WhatsApp**: [Hubungi saya](https://wa.me/6288214772441)  
-  Jangan ragu untuk menghubungi saya jika Anda ingin berbicara lebih lanjut atau memiliki pertanyaan.
+  Jangan ragu untuk menghubungi saya jika Anda ingin berbicara atau memiliki pertanyaan.
 
 ## 🚀 Minat dan Kegiatan
 
-Saya memiliki minat dalam [sebutkan minat atau hobi khusus, misalnya "teknologi dan pengembangan perangkat lunak"]. Selain itu, saya aktif dalam berbagai kegiatan kampus dan organisasi.
+Saya sangat tertarik pada:
+- **Teknologi**: Terutama dalam pengembangan perangkat lunak dan inovasi digital.
+- **Kegiatan Sosial**: Terlibat dalam berbagai organisasi dan proyek komunitas.
 
 ## 🌟 Proyek Terbaru
 
-- **[Proyek Terbaru](#)**: Deskripsi singkat tentang proyek atau pencapaian terbaru Anda.
+- **[Proyek Terbaru 1](#)**: Deskripsi singkat tentang proyek atau pencapaian terbaru Anda.
+- **[Proyek Terbaru 2](#)**: Deskripsi singkat tentang proyek atau pencapaian terbaru lainnya.
 
 ## 📈 Statistik Sosial
 
-- **Jumlah Pengikut Instagram**: [Sekian]  
-- **Jumlah Pesan WhatsApp**: [Sekian]  
+- **Jumlah Pengikut Instagram**: ![Instagram Followers Badge](https://img.shields.io/badge/Instagram-5000_followers-blue)  <!-- Ganti dengan badge pengikut Instagram aktual -->
+- **Jumlah Pesan WhatsApp**: ![WhatsApp Messages Badge](https://img.shields.io/badge/WhatsApp-Messages_received-green)  <!-- Ganti dengan badge jumlah pesan WhatsApp jika diinginkan -->
 
 ---
 
-Terima kasih telah mengunjungi halaman ini. Jangan ragu untuk berhubungan jika Anda ingin berdiskusi atau berkolaborasi dalam proyek-proyek menarik!
+Terima kasih telah mengunjungi halaman saya. Jika Anda ingin berkolaborasi atau memiliki pertanyaan, jangan ragu untuk menghubungi saya. Selamat beraktivitas!
 
 [**Kembali ke Atas**](#arasya-rafi)
