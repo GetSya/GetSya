@@ -28,8 +28,8 @@ Hai! Saya Arasya Rafi, seorang pelajar yang penuh semangat dengan berbagai minat
 ## 🚀 Minat dan Kegiatan
 
 Saya sangat tertarik pada:
-- **Teknologi**: Khususnya dalam pengembangan perangkat lunak dan inovasi digital.
-- **Kegiatan Sosial**: Terlibat dalam berbagai organisasi dan proyek komunitas.
+- **🔧 Teknologi**: Khususnya dalam pengembangan perangkat lunak dan inovasi digital.
+- **🌐 Kegiatan Sosial**: Terlibat dalam berbagai organisasi dan proyek komunitas.
 
 ## 🌟 Proyek Terbaru
 
@@ -41,8 +41,13 @@ Saya sangat tertarik pada:
 - **Jumlah Pengikut Instagram**: ![Instagram Followers](https://img.shields.io/badge/Instagram-5000_followers-blue)  <!-- Ganti dengan badge pengikut Instagram aktual -->
 - **Jumlah Pesan WhatsApp**: ![WhatsApp Messages](https://img.shields.io/badge/WhatsApp-Messages_received-green)  <!-- Ganti dengan badge jumlah pesan WhatsApp jika diinginkan -->
 
+## 🔄 Aktivitas Terkini
+
+<!-- Ini adalah contoh badge dinamis untuk menunjukkan aktivitas terkini -->
+- **💻 Terbaru di GitHub**: [Lihat Aktivitas GitHub](https://github-readme-stats.vercel.app/api?username=GetSya&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&hide=prs&theme=radical)
+
 ---
 
 Terima kasih telah mengunjungi halaman saya. Jika Anda ingin berkolaborasi atau memiliki pertanyaan, jangan ragu untuk menghubungi saya. Selamat beraktivitas!
 
-[🔝 Kembali ke Atas](#arsaya-rafi)
+[🔝 Kembali ke Atas](#arasya-rafi)
