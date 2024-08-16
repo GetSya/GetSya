@@ -6,7 +6,7 @@ Kelas : X - RPL<br>
 Sekolah : [SMK MuhTiga Tangsel](http://muhtiga.sch.id)
 <p align="center"> 
   Visitor Count<br>
-  <img src="https://profile-counter.glitch.me/rtwone/count.svg" />
+  <img src="https://profile-counter.glitch.me/GetSya/count.svg" />
 </p>
 
 ## 📌 Pinned
