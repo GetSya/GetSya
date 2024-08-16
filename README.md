@@ -1,30 +1,43 @@
-- 👋 Hi, I’m Arasyaaaaa
+# Arasya Rafi
 
+![Visitor Count](https://profile-counter.glitch.me/GetSya/count.svg)  <!-- Badge pengunjung -->
 
-Nama : Arasya Rafi Putra<br>
-Kelas : X - RPL<br>
-Sekolah : [SMK MuhTiga Tangsel](http://muhtiga.sch.id)
-<p align="center"> 
-  Visitor Count<br>
-  <img src="https://profile-counter.glitch.me/GetSya/count.svg" />
-</p>
+![Arasya Rafi](https://via.placeholder.com/150)  <!-- Ganti dengan URL foto profil jika ada -->
 
-## 📌 Pinned
-| | |
-| :--- | :--- |
-| 📧 [MY INSTAGRAM](https://instagram.com/sofunsyabi.id) | 🔪 [MY GRUP CHAT](https://chat.whatsapp.com/HECLovHbCI6LVVH4Q8FN2C) |
+Selamat datang di halaman README saya! Saya Arasya Rafi, seorang pelajar dan peminat teknologi dengan latar belakang pendidikan yang beragam. Berikut adalah beberapa informasi tentang saya.
 
-## Wa
-- WhatsApp : [Arasya](https://wa.me/6281319944917)
-- My Bot : [Jojo - Bot](https://wa.me/6288213292687)
+## 🎓 Pendidikan
 
-## Github IO
-- [My Profile](https://getsya.github.io)
+- **SMK Muhammadiyah 3 Tangsel**  
+  Saya menempuh pendidikan di SMK Muhammadiyah 3 Tangsel, sebuah sekolah yang terkenal dengan program-program unggulannya.  
+  [Kunjungi Website SMK Muhammadiyah 3 Tangsel](https://muhtiga.sch.id)
 
-## Thanks To
-- [Affis Junianto](https://github.com/affisjunianto)
-- [Riyan](https://github.com/rtwone)
-- [Yogi Pw](https://github.com/yogipw)
-- [Baileys](https://github.com/adiwajshing/baileys)
-- [Wisnu](https://github.com/cheo-bot)
-- [Angger](https://github.com/ANGGER4)
+- **Universitas Pamulang**  
+  Saat ini, saya melanjutkan studi di Universitas Pamulang, fokus pada bidang yang saya minati.
+
+## 📱 Kontak
+
+- **Instagram**: [arsrfii](https://instagram.com/arsrfii)  
+  Ikuti saya di Instagram untuk update terbaru dan aktivitas sehari-hari.
+
+- **WhatsApp**: [Hubungi saya](https://wa.me/6288214772441)  
+  Jangan ragu untuk menghubungi saya jika Anda ingin berbicara lebih lanjut atau memiliki pertanyaan.
+
+## 🚀 Minat dan Kegiatan
+
+Saya memiliki minat dalam [sebutkan minat atau hobi khusus, misalnya "teknologi dan pengembangan perangkat lunak"]. Selain itu, saya aktif dalam berbagai kegiatan kampus dan organisasi.
+
+## 🌟 Proyek Terbaru
+
+- **[Proyek Terbaru](#)**: Deskripsi singkat tentang proyek atau pencapaian terbaru Anda.
+
+## 📈 Statistik Sosial
+
+- **Jumlah Pengikut Instagram**: [Sekian]  
+- **Jumlah Pesan WhatsApp**: [Sekian]  
+
+---
+
+Terima kasih telah mengunjungi halaman ini. Jangan ragu untuk berhubungan jika Anda ingin berdiskusi atau berkolaborasi dalam proyek-proyek menarik!
+
+[**Kembali ke Atas**](#arasya-rafi)
