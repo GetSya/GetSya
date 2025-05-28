@@ -1,5 +1,6 @@
 # 🌟 **Arasya Rafi**
 
+Kunjungan Bulan ini:
 ![Visitor Count](https://profile-counter.glitch.me/GetSya/count.svg) <!-- Badge pengunjung -->
 
 ## 🎉 **Selamat Datang!**
